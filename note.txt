@@ -1,0 +1,43 @@
+### Data Structures
+
+1. Array 
+2. Linked List 
+3. Stack 
+4. Queue 
+5. Tree 
+  - Binary Tree 
+  - Binary Search Tree 
+  - Heap (Priority Queue)
+6. Graph
+7. Hash Table
+8. Trie
+9. Set
+10. Map
+
+
+### Algorithms classes (https://www.geeksforgeeks.org for reference)
+1. Backtracking Algorithms
+2. Dynamic Programming
+3. Greedy Algorithms
+4. Divide and Conquer
+
+
+### Try
+
+1. Implement trie for word auto complition and catching
+2. Implement AVL & Red black tree for balancing tree
+3. Implement B-tree - min order
+                    - order
+4. Implement hash table
+5. Implement hash table with chaining
+6. Implement hash table with linear probing
+7. Implement hash table with quadratic probing
+8. Implement hash table with double hashing
+9. Implement hash table with cuckoo hashing
+10. Implement Adjacency list and Adjacency matrix for graph
+11. Implement topological sorting for directed acyclic graph
+12. Implement BFS and DFS for graph
+13. Implement Dijkstra's algorithm for shortest path
+14. Huffman Coding data compression
+15. Bit Manipulation
+
